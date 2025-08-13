@@ -1,4 +1,4 @@
-# 📦 Supply-inventory-management-dashboard 
+# 📦 Inventory & Supply Chain Dashboard
 
 ## 📖 Project Overview  
 Efficient supply chain management is the heartbeat of any successful business. This project visualizes **inventory, transportation, and warehouse utilization data** to uncover insights that help decision-makers optimize operations, reduce costs, and boost customer satisfaction.  
