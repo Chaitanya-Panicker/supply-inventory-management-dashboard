@@ -1,8 +1,7 @@
 # 📦 Supply-inventory-management-dashboard 
 
 ## 📖 Project Overview  
-Efficient supply chain management is the heartbeat of any successful business.  
-This project visualizes **inventory, transportation, and warehouse utilization data** to uncover insights that help decision-makers optimize operations, reduce costs, and boost customer satisfaction.  
+Efficient supply chain management is the heartbeat of any successful business. This project visualizes **inventory, transportation, and warehouse utilization data** to uncover insights that help decision-makers optimize operations, reduce costs, and boost customer satisfaction.  
 
 With a dynamic Power BI dashboard, we track everything from **transportation costs** to **inventory turnover**, providing a clear roadmap for operational improvements.  
 
