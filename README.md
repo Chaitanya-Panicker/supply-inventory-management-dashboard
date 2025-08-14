@@ -1,5 +1,7 @@
 # 📦 Inventory & Supply Chain Dashboard
 
+<img width="1336" height="767" alt="Screenshot 1" src="https://github.com/user-attachments/assets/96497671-9027-4ffb-ab84-1b90e0dfb0c6" />
+
 ## 📖 Project Overview  
 Efficient supply chain management is the heartbeat of any successful business. This project visualizes **inventory, transportation, and warehouse utilization data** to uncover insights that help decision-makers optimize operations, reduce costs, and boost customer satisfaction.  
 
@@ -49,16 +51,16 @@ With a dynamic Power BI dashboard, we track everything from **transportation cos
 
 ## 🚀 How to Use  
 1. Clone this repository.  
-2. Open the Power BI dashboard file (`Inventory_SupplyChain.pbix`).  
+2. Open the Power BI dashboard file (`PowerBI Project File.pbix`).  
 3. Use filters (Region, Category) to customize the view.  
 4. Explore KPIs and visuals to generate insights for your operations team.  
 
 ---
 
 ## 📬 Contact  
-👤 **Your Name**  
-📧 your.email@example.com  
-🌐 [Your Portfolio Link]  
+👤 **Chaitanya Panicker**  
+📧 chaitanya.panicker98@gmail.com  
+🌐 https://www.linkedin.com/in/chaitanyapanicker  
 
 ---
 
